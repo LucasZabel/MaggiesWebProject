@@ -1,6 +1,6 @@
 // CSS:
 import "./App.css";
-// Hooks:
+// Others:
 import { useState, useEffect } from "react";
 import { BrowserRouter, Routes, Route, Navigate } from "react-router-dom";
 import { useAuthentication } from "./hooks/useAuthentication";
