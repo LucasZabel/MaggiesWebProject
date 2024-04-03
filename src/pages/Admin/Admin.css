@@ -1,0 +1,48 @@
+.admin_item_list {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #000;
+    height: 120px;
+    margin-right: 30px;
+}
+
+.admin_div {
+    padding-right: 5px;
+    margin: 0 5px;
+}
+
+.admin_div_P_T {
+    display: flex;
+    flex-direction: column;
+}
+
+.admin_description {
+    width: 40%;
+    height: 100px;
+    overflow: auto;
+    overflow-x: hidden;
+    padding: 5px;
+    border: 1px solid #636363;
+    border-radius: 3px;
+}
+
+.admin_div_img {
+    padding: 2px;
+    border: 1px solid #636363;
+    border-radius: 3px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+    width: 100px;
+    overflow: auto;
+}
+
+.admin_img {
+    border-radius: 10px;
+    width: 100px;
+}

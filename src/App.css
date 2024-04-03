@@ -1,0 +1,139 @@
+.formulary {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    height: 60vh;
+    align-items: center;
+}
+
+.border_bottom {
+    border-bottom: 1px solid #636363;
+}
+
+.formulary p {
+    color: #aaa;
+}
+
+.formulary form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.formulary label {
+    margin-bottom: 10px;
+}
+
+/* .btn {
+    padding: 8px 35px;
+    margin-top: 10px;
+    margin-bottom: 1.5em;
+    background-color: #35ff57c5;
+    border: 1px solid #35ff57c5;
+    color: #000;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.btn:hover {
+    transition: 0.5s;
+    background-color: #35ff57;
+    border: 1px solid #35ff57;
+} */
+
+.btn {
+    font-size: 18px;
+    text-decoration: none;
+    color: #636363;
+    background-color: white;
+    border: none;
+    text-align: center;
+    position: relative;
+    transition: all .35s;
+    padding: 2px 5px;
+}
+
+.btn[value] {
+    position: relative;
+    z-index: 1;
+}
+
+.btn:after {
+    position: absolute;
+    content: "";
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 100%;
+    background: #969696c5;
+    transition: all .35s;
+}
+
+.btn:hover {
+    color: #000;
+    cursor: pointer;
+    background: transparent;
+}
+
+.btn:hover .btn {
+    background-color: transparent;
+    color: black;
+}
+
+.btn:hover:after {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}
+
+.btn_red {
+    font-size: 18px;
+    text-decoration: none;
+    color: #636363;
+    background-color: white;
+    border: none;
+    text-align: center;
+    position: relative;
+    transition: all .35s;
+    padding: 2px 5px;
+}
+
+.btn_red[value] {
+    position: relative;
+    z-index: 1;
+}
+
+.btn_red:after {
+    position: absolute;
+    content: "";
+    top: 50%;
+    left: 50%;
+    width: 0;
+    height: 0;
+    border-radius: 100%;
+    background: #ff3535c5;
+    transition: all .35s;
+}
+
+.btn_red:hover {
+    color: #000;
+    cursor: pointer;
+    background: transparent;
+}
+
+.btn_red:hover .btn_red {
+    background-color: transparent;
+    color: black;
+}
+
+.btn_red:hover:after {
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-radius: 15px;
+}

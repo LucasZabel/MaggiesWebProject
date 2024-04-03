@@ -1,0 +1,317 @@
+{
+  "products": [
+    {
+      "id": "0001",
+      "name": "Big Maggie's",
+      "img": "big_maggies.webp",
+      "price": "26",
+      "type": "gourmet",
+      "description": "Pão, Hamburguer 160g, Queijo Cheddar, Alface, Tomate, Picles, Cebola Caramelizada, Molho Maggie's."
+    },
+    {
+      "id": "0002",
+      "img": "cheddarzudo.webp",
+      "name": "Cheddarzudo",
+      "price": "29",
+      "type": "gourmet",
+      "description": "Pão, Hamburguer 160g, Creme de Cheddar com Linguiça Bovina."
+    },
+    {
+      "id": "0003",
+      "img": "maggies_tasty.webp",
+      "name": "Maggie's Tasty",
+      "price": "28",
+      "type": "gourmet",
+      "description": "Pão, Hamburguer 200g, Alface Americana, Tomate, Cebola Roxa, Dobro de Queijo Mussarela, Molho Tasty Apimentado e Defumado."
+    },
+    {
+      "id": "0004",
+      "img": "mr_maggissom.webp",
+      "name": "Mr. Maggissom",
+      "price": "27",
+      "type": "gourmet",
+      "description": "Pão, Hamburguer 160g, Cebola Crispy, Queijo Prato, Maionese de Linguiça Bovina."
+    },
+    {
+      "id": "0005",
+      "img": "mr_maggissom_20.webp",
+      "name": "Mr. Maggissom 2.0",
+      "price": "31",
+      "type": "gourmet",
+      "description": "Pão, Hamburguer 160g, Rodelas de Linguiça Bovina Crispy, Cebola Crispy, Queijo Prato, Maionese de Linguiça Bovina."
+    },
+    {
+      "id": "0006",
+      "img": "red_hot_chicken_pepper.webp",
+      "name": "Red Hot Chicken Pepper",
+      "price": "27",
+      "type": "gourmet",
+      "description": "Pão com Gergelin, Filé de Frango Empanado e Apimentado, Alface, Queijo Mussarela, Molho Sweet Chilli, Maionese Caseira."
+    },
+    {
+      "id": "0007",
+      "img": "duplo_maggies.webp",
+      "name": "Duplo Maggie's",
+      "price": "32",
+      "type": "gourmet",
+      "description": "Pão, Dois Hamburgueres 160g, Queijo Cheddar, Uma opção de molho da casa (Maionese Caseira, Barbecue, Sweet Chilli ou Molho Maggie's)."
+    },
+    {
+      "id": "0008",
+      "img": "maggies_duplo_salada.webp",
+      "name": "Maggie's Duplo Salada",
+      "price": "34",
+      "type": "gourmet",
+      "description": "Pão, Dois Hamburgueres 160g, Alface, Tomate, Cebola Roxa, Duplo Queijo Prato, 2 Opções de molhos da casa (Maionese Caseira, Barbecue, Sweet Chilli ou Molho Maggie's)."
+    },
+    {
+      "id": "0009",
+      "img": "maggies_vegetariano.webp",
+      "name": "Maggie's Vegetariano",
+      "price": "25",
+      "type": "gourmet",
+      "description": "Pão, Palmito na Chapa, Alface, Tomate, Milho, Ervilha, Queijo Prato, Queijo Cheddar, Maionese Caseira."
+    },
+    {
+      "id": "0010",
+      "img": "mr_jack_20.webp",
+      "name": "Mr. Jack 2.0",
+      "price": "28",
+      "type": "gourmet",
+      "description": "Pão Australiano, Hamburguer 200g, Alface, Queijo Mussarela, Maionese Caseira, Barbecue."
+    },
+    {
+      "id": "0011",
+      "img": "maggies_burguer.webp",
+      "name": "Maggie's Burguer",
+      "price": "22",
+      "type": "tradicional",
+      "description": "Pão, Hamburguer 160g, Queijo Prato, Maionese Caseira."
+    },
+    {
+      "id": "0012",
+      "img": "maggies_coracao.webp",
+      "name": "Maggie's Coração",
+      "price": "27",
+      "type": "tradicional",
+      "description": "Pão, Coração de Galinha, Alface, Tomate, Milho, Ervilha, Queijo Prato, Maionese Caseira."
+    },
+    {
+      "id": "0013",
+      "img": "maggies_egg.webp",
+      "name": "Maggie's Egg",
+      "price": "25",
+      "type": "tradicional",
+      "description": "Pão, Hamburguer 160g, Ovo Frito, Alface, Tomate, Milho, Ervilha, Queijo Prato, Maionese Caseira."
+    },
+    {
+      "id": "0014",
+      "img": "maggies_frango.webp",
+      "name": "Maggie's Frango",
+      "price": "25",
+      "type": "tradicional",
+      "description": "Pão, Frango na Chapa, Alface, Tomate, Milho, Ervilha, Queijo Prato, Maionese Caseira."
+    },
+    {
+      "id": "0015",
+      "img": "maggies_salada.webp",
+      "name": "Maggie's Salada",
+      "price": "24",
+      "type": "tradicional",
+      "description": "Pão, Hamburguer 160g, Alface, Tomate, Milho, Ervilha, Queijo Prato, Maionese Caseira."
+    },
+    {
+      "id": "0016",
+      "img": "maggies_frango.webp",
+      "name": "Maggie's Frango Aberto",
+      "price": "33",
+      "type": "aberto",
+      "description": "Pão, Porção maior de Frango na Chapa, Alface, Tomate, Milho, Ervilha, Queijo Prato, Maionese Caseira, Adicional de Fritas."
+    },
+    {
+      "id": "0017",
+      "img": "maggies_coracao.webp",
+      "name": "Maggie's Coração Aberto",
+      "price": "35",
+      "type": "aberto",
+      "description": "Pão, Porção maior de Coração de Galinha, Alface, Tomate, Milho, Ervilha, Queijo Prato, Maionese Caseira, Adicional de Fritas."
+    },
+    {
+      "id": "0018",
+      "img": "maggies_egg.webp",
+      "name": "Maggie's Egg Aberto",
+      "price": "34",
+      "type": "aberto",
+      "description": "Pão, Hamburguer 200g, Ovo Frito, Alface, Tomate, Milho, Ervilha, Queijo Prato, Maionese Caseira, Adicional de Fritas."
+    },
+    {
+      "id": "0019",
+      "img": "maggies_duplo_salada.webp",
+      "name": "Maggie's Duplo Salada Aberto",
+      "price": "44",
+      "type": "aberto",
+      "description": "Pão, Dois Hamburgueres 160g, Alface, Tomate, Cebola Roxa, Duplo Queijo Prato, Maionese Caseira, Adicional de Fritas."
+    },
+    {
+      "id": "0020",
+      "img": "big_maggies.webp",
+      "name": "Combo Big Maggie's",
+      "price": "38",
+      "type": "combo",
+      "description": "Pão, Hamburguer 160g, Queijo Cheddar, Alface, Tomate, Picles, Cebola Caramelizada, Molho Maggie's."
+    },
+    {
+      "id": "0021",
+      "img": "cheddarzudo.webp",
+      "name": "Combo Cheddarzudo",
+      "price": "41",
+      "type": "combo",
+      "description": "Pão, Hamburguer 160g, Creme de Cheddar com Linguiça Bovina."
+    },
+    {
+      "id": "0022",
+      "img": "maggies_tasty.webp",
+      "name": "Combo Maggie's Tasty",
+      "price": "40",
+      "type": "combo",
+      "description": "Pão, Hamburguer 200g, Alface Americana, Tomate, Cebola Roxa, Dobro de Queijo Mussarela, Molho Tasty Apimentado e Defumado."
+    },
+    {
+      "id": "0023",
+      "img": "duplo_maggies.webp",
+      "name": "Combo Duplo Maggie's",
+      "price": "43",
+      "type": "combo",
+      "description": "Pão, Dois Hamburgueres 160g, Queijo Cheddar, Uma opção de molho da casa (Maionese Caseira, Barbecue, Sweet Chilli ou Molho Maggie's)."
+    },
+    {
+      "id": "0024",
+      "img": "mr_maggissom.webp",
+      "name": "Combo Mr. Maggissom",
+      "price": "35",
+      "type": "combo",
+      "description": "Pão, Hamburguer 160g, Cebola Crispy, Queijo Prato, Maionese de Linguiça Bovina."
+    },
+    {
+      "id": "0025",
+      "img": "mr_maggissom_20.webp",
+      "name": "Combo Mr. Maggissom 2.0",
+      "price": "43",
+      "type": "combo",
+      "description": "Pão, Hamburguer 160g, Rodelas de Linguiça Bovina Crispy, Cebola Crispy, Queijo Prato, Maionese de Linguiça Bovina."
+    },
+    {
+      "id": "0026",
+      "img": "maggies_burguer.webp",
+      "name": "Combo Maggie's Burguer",
+      "price": "34",
+      "type": "combo",
+      "description": "Pão, Hamburguer 160g, Queijo Prato, Maionese Caseira."
+    },
+    {
+      "id": "0027",
+      "img": "maggies_coracao.webp",
+      "name": "Combo Maggie's Coração",
+      "price": "39",
+      "type": "combo",
+      "description": "Pão, Coração de Galinha, Alface, Tomate, Milho, Ervilha, Queijo Prato, Maionese Caseira."
+    },
+    {
+      "id": "0028",
+      "img": "maggies_egg.webp",
+      "name": "Combo Maggie's Egg",
+      "price": "37",
+      "type": "combo",
+      "description": "Pão, Hamburguer 160g, Ovo Frito, Alface, Tomate, Milho, Ervilha, Queijo Prato, Maionese Caseira."
+    },
+    {
+      "id": "0029",
+      "img": "maggies_frango.webp",
+      "name": "Combo Maggie's Frango",
+      "price": "37",
+      "type": "combo",
+      "description": "Pão, Frango na Chapa, Alface, Tomate, Milho, Ervilha, Queijo Prato, Maionese Caseira."
+    },
+    {
+      "id": "0030",
+      "img": "maggies_salada.webp",
+      "name": "Combo Maggie's Salada",
+      "price": "36",
+      "type": "combo",
+      "description": "Pão, Hamburguer 160g, Alface, Tomate, Milho, Ervilha, Queijo Prato, Maionese Caseira."
+    },
+    {
+      "id": "0031",
+      "img": "maggies_duplo_salada.webp",
+      "name": "Combo Maggie's Duplo Salada",
+      "price": "46",
+      "type": "combo",
+      "description": "Pão, Dois Hamburgueres 160g, Alface, Tomate, Cebola Roxa, Duplo Queijo Prato, 2 Opções de molhos da casa (Maionese Caseira, Barbecue, Sweet Chilli ou Molho Maggie's)."
+    },
+    {
+      "id": "0032",
+      "img": "maggies_vegetariano.webp",
+      "name": "Combo Maggie's Vegetariano",
+      "price": "37",
+      "type": "combo",
+      "description": "Pão, Palmito na Chapa, Alface, Tomate, Milho, Ervilha, Queijo Prato, Queijo Cheddar, Maionese Caseira."
+    },
+    {
+      "id": "0033",
+      "img": "mr_jack_20.webp",
+      "name": "Combo Mr. Jack 2.0",
+      "price": "40",
+      "type": "combo",
+      "description": "Pão Australiano, Hamburguer 200g, Alface, Queijo Mussarela, Maionese Caseira, Barbecue."
+    },
+    {
+      "id": "0034",
+      "img": "red_hot_chicken_pepper.webp",
+      "name": "Combo Red Hot Chicken Pepper",
+      "price": "39",
+      "type": "combo",
+      "description": "Pão com Gergelin, Filé de Frango Empanado e Apimentado, Alface, Queijo Mussarela, Molho Sweet Chilli, Maionese Caseira."
+    },
+    {
+      "id": "0035",
+      "img": "batata_frita.webp",
+      "name": "Porção de Batata Frita 250g",
+      "price": "18",
+      "type": "porcao",
+      "description": "Porção de 250g de Batata Frita."
+    },
+    {
+      "id": "0036",
+      "img": "batata_frita.webp",
+      "name": "Porção de Batata Frita 500g",
+      "price": "27",
+      "type": "porcao",
+      "description": "Porção de 500g de Batata Frita."
+    },
+    {
+      "id": "0037",
+      "img": "coracao.webp",
+      "name": "Porção de Coração e Fritas",
+      "price": "60",
+      "type": "porcao",
+      "description": "Porção de 500g de Coração de Frango e 500g de Batata Frita."
+    },
+    {
+      "id": "0038",
+      "img": "frango.webp",
+      "name": "Porção de Frango na Chapa e Fritas",
+      "price": "55",
+      "type": "porcao",
+      "description": "Porção de 500g de Frango na Chapa e 500g de Batata Frita."
+    },
+    {
+      "id": "0039",
+      "name": "Porção da Casa",
+      "img": "coracao.webp",
+      "price": "80",
+      "type": "porcao",
+      "description": "Porção de 300g de Frango na Chapa, 300g de Coração de Frango, 500g de Batata Frita, Pão com Queijo, Alface, Tomate, Picles."
+    }
+  ],
+  "cart": []
+}

@@ -1,0 +1,50 @@
+.div_home {
+    text-align: center;
+}
+
+.div_promotion {
+    background-image: url("../../img/combo.jpg");
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 200px;
+}
+
+.home_h3 {
+    width: 50%;
+    font-size: 30px;
+    margin: 0 auto;
+    padding: 10px 5%;
+    color: #fff;
+}
+
+.home_p {
+    color: #fff;
+    text-decoration: underline;
+}
+
+.address {
+    background-image: url("../../img/googlemaps.png");
+    background-size: cover;
+    height: 70vh;
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-top: 1px solid #636363;
+    border-bottom: 1px solid #636363;
+}
+
+.address button {
+    cursor: pointer;
+}
+
+.address_info {
+    font-size: 25px;
+    opacity: 0.3;
+    transition: .5s;
+}
+
+.address:hover .address_info {
+    opacity: 1;
+    transition: .5s;
+}
